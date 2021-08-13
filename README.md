@@ -1,2 +1,3 @@
 # extra
-Repositorio extra del proyecto HU
+
+En este repositorio se encuentran todos los programas que no pueden ser clasificados dentro de ninguna otra categoría.
