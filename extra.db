@@ -1,0 +1,9 @@
+{
+	"24diff": ["24diff","Darth Venom","2.0",["python"],[],[], "Muestra las horas restantes del día"],
+	"choice": ["choice","Darth Venom","1.0",["python"],[],[], "Decide de forma aleatoria entre una lista de cosas"],
+	"clock": ["clock","Darth Venom","1.0",["python"],["libclock"],[], "Permite obtener la hora de un lugar"],
+	"hcalc": ["hcalc","Darth Venom,"1.0",["python"],[],[], "Calculadora horaria"],
+	"multtrain": ["multtrain","Darth Venom","1.0",["python"],[],[], "Multiplicaciones aleatorias dentro de un intervalo dado"],
+	"perday": ["perday","Darth Venom","1.0",["python"],[],[], "Muestra el porcentaje de tiempo pasado en el día"],
+	"sumtrain": ["sumtrain","Darth Venom","1.0",["python"],[],[], "Sumas aleatorias dentro de un intervalo dado"]
+}
